@@ -12,6 +12,7 @@ public class Transactioncalculation {
 		int incentive = 5000;
 		balance=balance+incentive;
 		System.out.println("The Current balance is "+balance);
+		
 	}
 
 }
