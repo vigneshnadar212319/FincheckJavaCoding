@@ -15,7 +15,7 @@ public class VowelandConsonant {
 			System.out.println(ch+"is an vowel");
 			
 		} else {
-			System.out.println(ch+" is an constant");
+			System.out.println(ch+" is an consonant");
 
 		}
 	}
