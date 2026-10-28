@@ -15,8 +15,8 @@ public class SumofMarks {
 			for(int j=0;j<=4;j++) {
 				sum=sum+marks[i][j];
 			}
-			System.out.println(name[i]+"total marks is "+sum+"/500");
-			System.out.println(name[i]+"percentage is"+((double)sum/5));
+			System.out.println(name[i]+" total marks is "+sum+"/500");
+			System.out.println(name[i]+" percentage is "+((double)sum/5));
 		}
 	}
 
